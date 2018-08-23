@@ -1,2 +1,2 @@
 # mypython
-machine learning
+my python project
